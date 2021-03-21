@@ -1,0 +1,4 @@
+this is a text file created using cat command in GIT bash
+we can create a blank file using touch command but it will be 
+blank. the advantage of touch command is that you can create
+multiple files at the same time using touch command.
